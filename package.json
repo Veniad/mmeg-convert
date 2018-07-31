@@ -1,0 +1,16 @@
+{
+  "name": "mmeg-convert",
+  "version": "1.0.0",
+  "description": "Converts all files with definitions from xml to JSON format and maps the data by a specific map key.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Xzandro",
+  "license": "ISC",
+  "dependencies": {
+    "fs-extra": "^7.0.0",
+    "xml2js": "^0.4.19"
+  }
+}
